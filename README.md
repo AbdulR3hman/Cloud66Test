@@ -14,4 +14,4 @@ e.g.
 
 ######ruby SubStringMatcher.rb "text is long" "text"
 would result in;
-######Match No. 1 start @ position is 1
+######Match No. 1 start @ position: 1
