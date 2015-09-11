@@ -28,7 +28,7 @@ while @outer_counter < @txt.length do
 
   if @inner_monitor
     @matches_counter+=1
-    puts "Match No. #{@matches_counter} start @ position is #{@char_position}"
+    puts "Match No. #{@matches_counter} start @ position: #{@char_position}"
   end
 
   #Reset counters and monitors
